@@ -40,8 +40,6 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     Glimpse \
     MatLog \
-    Twelve \
-    YASR \
     Seedvault \
     OmniJaws \
     OpenDelta \
